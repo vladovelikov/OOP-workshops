@@ -1,0 +1,6 @@
+class Dump v package System
+
+Dump -> vzimame obekta ot SystemSplit i go slagame v Dump
+
+
+SystemSplit systemSplit = new DumpExtension(); --> v Main
